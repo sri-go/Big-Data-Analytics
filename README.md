@@ -8,8 +8,8 @@
 ### Data Wrangling/SQL Queries
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/SQL_Queries.ipynb)
 
-### Homework 3 - Spark SQL
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/Homework_3.ipynb)
+### Spark SQL
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/Spark_SQL.ipynb)
 ### Homework 4 - Machine Learning
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/Homework_4.ipynb)
 ### Homework 5 - Deep Learning
