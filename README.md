@@ -5,7 +5,7 @@
 ### Web Scraping/Data Wrangling/Naive Bayes Classifier
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/Web_Scraping_Data_Wrangling_Naive_Bayes_Classifier.ipynb)
 
-### Homework 2 - Data Wrangling/SQL Queries
+### Data Wrangling/SQL Queries
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/SQL_Queries.ipynb)
 
 ### Homework 3 - Spark SQL
