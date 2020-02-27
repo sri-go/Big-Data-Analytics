@@ -10,8 +10,9 @@
 
 ### Spark SQL
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/Spark_SQL.ipynb)
-### Homework 4 - Machine Learning
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/Homework_4.ipynb)
+
+### PCA/K-Means/Random Forest
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/PCA/Random_Forest/K-Means)
 ### Homework 5 - Deep Learning
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sri-go/BigDataAnalytics/blob/master/Homework_5.ipynb)
 ### Project - Continued Machine Learning
