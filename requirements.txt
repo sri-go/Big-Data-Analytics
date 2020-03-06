@@ -1,0 +1,11 @@
+numpy
+pandas
+sqlite3
+swifter
+urllib
+re
+scrapy
+nltk
+lxml
+ipywidgets
+nbinteract
